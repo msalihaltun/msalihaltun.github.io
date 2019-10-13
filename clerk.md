@@ -2,7 +2,7 @@
 
 Bilkent University Senior Project 2019/2020. Reports will be made available here.
 
-## Project Specifications Report: <>
+## Project Specifications Report: [pdf](/reports/CS491 Project Specifications.pdf)
 
 ## Analysis Report: <>
 
