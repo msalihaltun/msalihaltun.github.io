@@ -1,3 +1,3 @@
 This is my GitHub pages website. Created initially for hosting senior project reports.
 
-Senior Project Page: [Clerk](msalihaltun.github.io/clerk/)
+Senior Project Page: [Clerk](clerk)
